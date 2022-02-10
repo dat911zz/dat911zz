@@ -12,7 +12,7 @@
 <p align="center">
   <!-- - 🔭 I’m currently working on ... -->
 🌱 I’m currently learning C/C++, C#, CSS, HTML, JS</br>
-👯 I’m looking to collaborate on team or company
+👯 I’m looking to collaborate on team or company 😄
 </p>
 
 
