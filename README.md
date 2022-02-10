@@ -12,7 +12,7 @@
 <p align="center">
   <!-- - 🔭 I’m currently working on ... -->
 🌱 I’m currently learning C/C++, C#, CSS, HTML, JS</br>
-👯 I’m looking to collaborate on team or company 😄
+👯 I’m looking to collaborate on team or company
 </p>
 
 
@@ -24,6 +24,8 @@
   <a href="mailto:datcy2011@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  
+  </br><img src="https://opengameart.org/sites/default/files/Torch_Gif.gif" width="100px"/>
 </div>
 
 
