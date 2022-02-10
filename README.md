@@ -14,10 +14,10 @@
 🌱 I’m currently learning C/C++, C#, CSS, HTML, JS</br>
 👯 I’m looking to collaborate on team or company
 </p>
-
+<br><br>
 
 <div align="center" id="badges">
-  <h2>Contact with me</h2><br>
+  <h2>Contact with me</h2>
   <a target="_blank" href="https://www.facebook.com/2002vnd">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
