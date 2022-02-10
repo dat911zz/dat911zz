@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" id="badges">
-  <h1>Hi there, Welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1></br>
+  <h1>Hi there, Welcome to my GitHub profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1></br>
   <h2>Here are some ideas to get you started:</h2> 
 </div>
 
