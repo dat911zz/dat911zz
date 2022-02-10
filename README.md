@@ -26,16 +26,15 @@
   </a>
   
   </br><img src="https://opengameart.org/sites/default/files/Torch_Gif.gif" width="100px"/>
-</div>
-
 
 --- 
-<div align="center">
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=dat911zz&show_icons=true&theme=tokyonight)&nbsp;
-<div align="center">
-  
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=dat911zz&show_icons=true&theme=tokyonight)
 --- 
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight)
- 
+---
+
 ![](https://komarev.com/ghpvc/?username=dat911zz)
+
+</div>
