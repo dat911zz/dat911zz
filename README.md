@@ -1,15 +1,15 @@
 
 <!--**dat911zz/dat911zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div id="header" align="center">
-  <img src="https://github.com/dat911zz/Workspace/blob/main/MyProfile/assets/Img/Jhin.gif" width="800vh"/>
+  <img src="https://github.com/dat911zz/Workspace/blob/main/Pics/ezgif.com-gif-maker.gif" width="900vh"/>
 </div>
 
 <div align="center" id="badges">
   <h1>Hi there, Welcome to my GitHub profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1></br>
   <h2>Here are some ideas to get you started</h2> 
 </div>
-
-<p align="center">
+  
+  
   <!-- - 🔭 I’m currently working on ... -->
 🌱 I’m currently learning C/C++, C#, CSS, HTML, JS</br>
 👯 I’m looking to collaborate on team or company
