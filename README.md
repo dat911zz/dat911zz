@@ -7,7 +7,7 @@
 <div align="center" id="badges">
   <h1>Hi there, Welcome to my GitHub profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1></br>
   <h2>Here are some ideas to get you started</h2> 
-</div>
+
   
   
   <!-- - 🔭 I’m currently working on ... -->
@@ -15,7 +15,7 @@
 👯 I’m looking to collaborate on team or company
 </p>
 <br><br>
-
+</div>
 <div align="center" id="badges">
   <h2>Contact with me</h2>
   <a target="_blank" href="https://www.facebook.com/2002vnd">
