@@ -28,8 +28,10 @@
   </br><img src="https://opengameart.org/sites/default/files/Torch_Gif.gif" width="100px"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
---- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dat911zz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=dat911zz&show_icons=true&theme=tokyonight)
 --- 
