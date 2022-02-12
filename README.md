@@ -36,7 +36,7 @@
 [![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=dat911zz&show_icons=true&theme=tokyonight)](https://github.com/dat911zz)
 --- 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight)]((https://github.com/dat911zz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight)](https://github.com/dat911zz)
 ---
 
 ![](https://komarev.com/ghpvc/?username=dat911zz)
