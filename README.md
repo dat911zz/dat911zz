@@ -33,10 +33,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dat911zz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=dat911zz&show_icons=true&theme=tokyonight)
+[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=dat911zz&show_icons=true&theme=tokyonight)](https://github.com/dat911zz)
 --- 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight)]((https://github.com/dat911zz)
 ---
 
 ![](https://komarev.com/ghpvc/?username=dat911zz)
