@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight)](https://github.com/dat911zz)
 ---
 
-<a href="https://github.com/dat911zz><img alt="cutipu Graph"
+<a href="https://github.com/dat911zz"><img alt="cutipu Graph"
     src="https://activity-graph.herokuapp.com/graph?username=dat911zz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
 ---
