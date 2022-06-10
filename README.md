@@ -25,8 +25,7 @@
   <a href="mailto:datcy2011@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  
-  </br><img src="https://opengameart.org/sites/default/files/Torch_Gif.gif" width="100px"/>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
