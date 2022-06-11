@@ -6,9 +6,7 @@
 
 <div align="center" id="badges">
   <h1>Hi there, Welcome to my GitHub profile</h1></br>
-  <h2>Here are some ideas to get you started</h2> 
-
-  
+  <h2>Here are some ideas to get you started</h2>   
   
   <!-- - 🔭 I’m currently working on ... -->
 🎓 I'm a student at HUFI ( Ho Chi Minh City University of Food Industry )<br>
@@ -46,3 +44,7 @@
 ![](https://komarev.com/ghpvc/?username=dat911zz)
 
 </div>
+
+
+>**Warning**
+>You have not followed my page yet :(
