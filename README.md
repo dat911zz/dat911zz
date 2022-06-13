@@ -47,4 +47,4 @@
 
 
 >**Warning**
->You have not followed my page yet :(
+>You have not followed me yet :(
