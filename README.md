@@ -28,6 +28,7 @@
 <br><br>
 <div>
 <h3> Shop Hàng Hiệu <br> (Luxury Shop) </h3>
+<p>+ Teamwork <3 +</p>
 <p>Technologies: Front-end( HTML, CSS, JS)</p>
 <p>Link demo: <a href="https://dat911zz.github.io/BTL-TKWeb-TMDT">https://dat911zz.github.io/BTL-TKWeb-TMDT</a></p>
 <p>Link repos: <a href="https://github.com/dat911zz/BTL-TKWeb-TMDT">https://github.com/dat911zz/BTL-TKWeb-TMDT</a></p>
