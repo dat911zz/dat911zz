@@ -13,7 +13,20 @@
 🌱 I’m currently learning C/C++, C#, CSS, HTML, JS<br>
 👯 I’m looking to collaborate on team or company
 </p>
-<br><br>
+<br>
+<h2 align="center">🛠 Featured Project 🛠</h2>
+<div>
+<h3> Web Quản Lý Sinh Viên </h3>
+<p>Technologies: Front-end( HTML, CSS, JS), Back-end( ASP.NET MVC 5)</p>
+<p>Link demo: <a href="dat911zz.somee.com/">dat911zz.somee.com</a></p>
+<span> <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=Status&up_color=light-green&up_message=online&url=http%3A%2F%2Fdat911zz.somee.com%2F"/> </span>
+<span> <img src="https://img.shields.io/tokei/lines/github/dat911zz/StudentManagementWebApp"/> </span>
+<span> <img src="https://img.shields.io/github/commit-activity/m/dat911zz/StudentManagementWebApp"/> </span>
+<span> <img src="https://img.shields.io/github/languages/count/dat911zz/StudentManagementWebApp"/> </span>
+</div>
+
+<br>
+<br>
 </div>
 <div align="center" id="badges">
   <h2>Contact with me</h2>
