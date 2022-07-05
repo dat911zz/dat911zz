@@ -16,19 +16,31 @@
 <br>
 <h2 align="center">🛠 Featured Project 🛠</h2>
 <div>
-<h3> Web Quản Lý Sinh Viên </h3>
+<h3> Web Quản Lý Sinh Viên <br> (Student Management Web Application) </h3>
 <p>Technologies: Front-end( HTML, CSS, JS), Back-end( ASP.NET MVC 5)</p>
 <p>Link demo: <a href="dat911zz.somee.com/">dat911zz.somee.com</a></p>
+<p>Link repos: <a href="https://github.com/dat911zz/StudentManagementWebApp">https://github.com/dat911zz/StudentManagementWebApp</a></p>
 <span> <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=Status&up_color=light-green&up_message=online&url=http%3A%2F%2Fdat911zz.somee.com%2F"/> </span>
 <span> <img src="https://img.shields.io/tokei/lines/github/dat911zz/StudentManagementWebApp"/> </span>
 <span> <img src="https://img.shields.io/github/commit-activity/m/dat911zz/StudentManagementWebApp"/> </span>
 <span> <img src="https://img.shields.io/github/languages/count/dat911zz/StudentManagementWebApp"/> </span>
+</div>
+<br><br>
+<div>
+<h3> Chương trình minh họa các giải thuật định thời CPU <br> (CPU Scheduling Algorithms Visualization)</h3>
+
+<p>Technologies: Winform C#</p>
+<p>Link repos: <a href="https://github.com/dat911zz/CPU-Scheduling-Algorithms">https://github.com/dat911zz/CPU-Scheduling-Algorithms</a></p>
+<span> <img src="https://img.shields.io/tokei/lines/github/dat911zz/CPU-Scheduling-Algorithms"/> </span>
+<span> <img src="https://img.shields.io/github/commit-activity/m/dat911zz/CPU-Scheduling-Algorithms"/> </span>
+<span> <img src="https://img.shields.io/github/languages/count/dat911zz/CPU-Scheduling-Algorithms"/> </span>
 </div>
 
 <br>
 <br>
 </div>
 <div align="center" id="badges">
+  <div>
   <h2>Contact with me</h2>
   <a target="_blank" href="https://www.facebook.com/2002vnd">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -36,7 +48,7 @@
   <a href="mailto:datcy2011@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
+  </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
