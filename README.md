@@ -20,12 +20,24 @@
 <p>Technologies: Front-end( HTML, CSS, JS), Back-end( ASP.NET MVC 5)</p>
 <p>Link demo: <a href="dat911zz.somee.com/">dat911zz.somee.com</a></p>
 <p>Link repos: <a href="https://github.com/dat911zz/StudentManagementWebApp">https://github.com/dat911zz/StudentManagementWebApp</a></p>
-<span> <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=Status&up_color=light-green&up_message=online&url=http%3A%2F%2Fdat911zz.somee.com%2F"/> </span>
+<span> <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=status&up_color=light-green&up_message=online&url=http%3A%2F%2Fdat911zz.somee.com%2F"/> </span>
 <span> <img src="https://img.shields.io/tokei/lines/github/dat911zz/StudentManagementWebApp"/> </span>
 <span> <img src="https://img.shields.io/github/commit-activity/m/dat911zz/StudentManagementWebApp"/> </span>
 <span> <img src="https://img.shields.io/github/languages/count/dat911zz/StudentManagementWebApp"/> </span>
 </div>
 <br><br>
+<div>
+<h3> Shop Hàng Hiệu <br> (Luxury Shop) </h3>
+<p>Technologies: Front-end( HTML, CSS, JS)</p>
+<p>Link demo: <a href="https://dat911zz.github.io/BTL-TKWeb-TMDT">https://dat911zz.github.io/BTL-TKWeb-TMDT</a></p>
+<p>Link repos: <a href="https://github.com/dat911zz/BTL-TKWeb-TMDT">https://github.com/dat911zz/BTL-TKWeb-TMDT</a></p>
+<span> <img src="https://img.shields.io/github/deployments/dat911zz/BTL-TKWeb-TMDT/github-pages"/> </span>
+<span> <img src="https://img.shields.io/tokei/lines/github/dat911zz/BTL-TKWeb-TMDT"/> </span>
+<span> <img src="https://img.shields.io/github/commit-activity/m/dat911zz/BTL-TKWeb-TMDT"/> </span>
+<span> <img src="https://img.shields.io/github/languages/count/dat911zz/BTL-TKWeb-TMDT"/> </span>
+</div>
+<br><br>
+
 <div>
 <h3> Chương trình minh họa các giải thuật định thời CPU <br> (CPU Scheduling Algorithms Visualization)</h3>
 
