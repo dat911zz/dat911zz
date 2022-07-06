@@ -46,7 +46,6 @@
 <p>Technologies: Winform C#</p>
 <p>Link repos: <a href="https://github.com/dat911zz/CPU-Scheduling-Algorithms">https://github.com/dat911zz/CPU-Scheduling-Algorithms</a></p>
 <span> <img src="https://img.shields.io/tokei/lines/github/dat911zz/CPU-Scheduling-Algorithms"/> </span>
-<span> <img src="https://img.shields.io/github/commit-activity/m/dat911zz/CPU-Scheduling-Algorithms"/> </span>
 <span> <img src="https://img.shields.io/github/languages/count/dat911zz/CPU-Scheduling-Algorithms"/> </span>
 </div>
 
