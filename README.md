@@ -19,7 +19,7 @@
 <div>
 <h3> Web Quản Lý Sinh Viên <br> (Student Management Web Application) </h3>
 <p>Technologies: Front-end( HTML, CSS, JS), Back-end( ASP.NET MVC 5)</p>
-<p>Link demo: <a href="dat911zz.somee.com/">dat911zz.somee.com</a></p>
+<p>Link demo: <a href="https://dat911zz.somee.com/">dat911zz.somee.com</a></p>
 <p>Link repos: <a href="https://github.com/dat911zz/StudentManagementWebApp">https://github.com/dat911zz/StudentManagementWebApp</a></p>
 <span> <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=status&up_color=light-green&up_message=online&url=http%3A%2F%2Fdat911zz.somee.com%2F"/> </span>
 <span> <img src="https://img.shields.io/tokei/lines/github/dat911zz/StudentManagementWebApp"/> </span>
