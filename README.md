@@ -33,7 +33,6 @@
 <p>Link demo: <a href="https://dat911zz.github.io/BTL-TKWeb-TMDT">https://dat911zz.github.io/BTL-TKWeb-TMDT</a></p>
 <p>Link repos: <a href="https://github.com/dat911zz/BTL-TKWeb-TMDT">https://github.com/dat911zz/BTL-TKWeb-TMDT</a></p>
 <span> <img src="https://img.shields.io/github/deployments/dat911zz/BTL-TKWeb-TMDT/github-pages"/> </span>
-<span> <img src="https://img.shields.io/github/commit-activity/m/dat911zz/BTL-TKWeb-TMDT"/> </span>
 <span> <img src="https://img.shields.io/github/languages/count/dat911zz/BTL-TKWeb-TMDT"/> </span>
 </div>
 <br><br>
