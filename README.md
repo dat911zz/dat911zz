@@ -4,10 +4,13 @@
   <img src="https://github.com/dat911zz/Workspace/blob/main/Pics/ezgif.com-gif-maker.gif" width="900vh"/>
 </div>
 
+
 <div align="center" id="badges">
-  <h1>Hi there, Welcome to my GitHub profile</h1>
+  <br>
+  <p id="header" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=500&lines=Hello+world!;I'm+V%C5%A9+%C4%90%E1%BA%A1t;I'm+a+developer;Great+to+see+you+here;%3C3"/>
+  </p>
   <p>[_-=*=-_]</p>
-  <h2>Here are some ideas to get you started</h2>   
   
   <!-- - 🔭 I’m currently working on ... -->
 🎓 I'm a student at HUFI ( Ho Chi Minh City University of Food Industry )<br>
