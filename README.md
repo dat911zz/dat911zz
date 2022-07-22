@@ -10,7 +10,6 @@
   <p id="header" align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=500&lines=Hello+world!;I'm+V%C5%A9+%C4%90%E1%BA%A1t;I'm+a+developer;Great+to+see+you+here;%3C3"/>
   </p>
-  <p>[_-=*=-_]</p>
   
   <!-- - 🔭 I’m currently working on ... -->
 🎓 I'm a student at HUFI ( Ho Chi Minh City University of Food Industry )<br>
@@ -28,7 +27,9 @@
 <span> <img src="https://img.shields.io/github/commit-activity/m/dat911zz/StudentManagementWebApp"/> </span>
 <span> <img src="https://img.shields.io/github/languages/count/dat911zz/StudentManagementWebApp"/> </span>
 </div>
-<br><br>
+<br> 
+--==*==--
+<br>
 <div>
 <h3> Shop Hàng Hiệu <br> (Luxury Shop) </h3>
 <p>+ Teamwork <3 +</p>
@@ -38,7 +39,9 @@
 <span> <img src="https://img.shields.io/github/deployments/dat911zz/BTL-TKWeb-TMDT/github-pages"/> </span>
 <span> <img src="https://img.shields.io/github/languages/count/dat911zz/BTL-TKWeb-TMDT"/> </span>
 </div>
-<br><br>
+<br> 
+--==*==--
+<br>
 
 <div>
 <h3> Chương trình minh họa các giải thuật định thời CPU <br> (CPU Scheduling Algorithms Visualization)</h3>
