@@ -8,7 +8,7 @@
 <div align="center" id="badges">
   <br>
   <p id="header" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=500&lines=Hello+world!;I'm+V%C5%A9+%C4%90%E1%BA%A1t;I'm+a+developer;Great+to+see+you+here;%3C3"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=500&lines=Hello+world!;I'm+a+developer;Great+to+see+you+here;%3C3"/>
   </p>
   
   <!-- - 🔭 I’m currently working on ... -->
