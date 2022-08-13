@@ -84,7 +84,7 @@
 
 </div>
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dat911zz/dat911zz/blob/output/github-contribution-grid-snake.svg)
 
 >**Warning**
 >You have not followed me yet :(
