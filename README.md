@@ -87,4 +87,4 @@
 ![Snake animation](https://github.com/dat911zz/dat911zz/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 >**Warning**
->You have not followed me yet :(((
+>You have not followed me yet :((((
