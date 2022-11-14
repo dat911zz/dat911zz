@@ -63,17 +63,23 @@
     <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   </div>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
----
-
+</div>
+</br>
+</hr>
+</br>
+<img width="58%" src="https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark" />
 <p align="center">	
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=dat911zz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dat911zz&show_icons=true&theme=tokyonight" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight)](https://github.com/dat911zz)
+  <p align="center">
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight" />
+    
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight)](https://github.com/dat911zz)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+  
+  </p>
 ---
 
 <a href="https://github.com/dat911zz"><img alt="cutipu Graph"
