@@ -67,7 +67,7 @@
 </br>
 </hr>
 </br>
-<img width="58%" src="https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark" />
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark" />
 <p align="center">	
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=dat911zz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dat911zz&show_icons=true&theme=tokyonight" />
