@@ -53,6 +53,7 @@
 [![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/StudentManagementWebApp?theme=dark-blue)](https://github.com/dat911zz/StudentManagementWebApp)
 [![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/CPU-Scheduling-Algorithms?theme=dark-blue)](https://github.com/dat911zz/CPU-Scheduling-Algorithms)
 [![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/BTL-TKWeb-TMDT?theme=dark-blue)](https://github.com/dat911zz/BTL-TKWeb-TMDT)
+[![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/Huffman?theme=dark-blue)](https://github.com/dat911zz/Huffman)
 
 
 <br>
