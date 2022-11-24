@@ -10,7 +10,12 @@
   <p id="header" align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=500&lines=Hello+world!;I'm+a+developer;Great+to+see+you+here;%3C3"/>
   </p>
+  <div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=dat911zz)
   
+</div>
+<h2 align="center">Just a little bit about me :3</h2>
   <!-- - 🔭 I’m currently working on ... -->
 🎓 I'm a student at HUFI ( Ho Chi Minh City University of Food Industry )<br>
 🌱 I’m currently learning C/C++, C#, CSS, HTML, JS<br>
@@ -102,11 +107,6 @@
 
 ---
 
-<div align="center">
-
-  ![](https://komarev.com/ghpvc/?username=dat911zz)
-  
-</div>
 <div align="center">
 
   ![Snake animation](https://github.com/dat911zz/dat911zz/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
