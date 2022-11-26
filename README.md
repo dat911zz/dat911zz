@@ -3,8 +3,6 @@
 <!-- <div id="header" align="center">
   <img src="https://github.com/dat911zz/Workspace/blob/main/Pics/ezgif.com-gif-maker.gif" width="900vh"/>
 </div> -->
-
-
 <div align="center" id="badges">
   <br>
   <p id="header" align="center">
@@ -44,13 +42,9 @@
 <span> <img src="https://img.shields.io/github/deployments/dat911zz/BTL-TKWeb-TMDT/github-pages"/> </span>
 <span> <img src="https://img.shields.io/github/languages/count/dat911zz/BTL-TKWeb-TMDT"/> </span>
 </div>
-<br> 
 --==*==--
-<br>
-
 <div>
 <h3> Chương trình minh họa các giải thuật định thời CPU <br> (CPU Scheduling Algorithms Visualization)</h3>
-
 <p>Technologies: Winform C#</p>
 <p>Link repos: <a href="https://github.com/dat911zz/CPU-Scheduling-Algorithms">https://github.com/dat911zz/CPU-Scheduling-Algorithms</a></p>
 </div> -->
@@ -78,14 +72,12 @@
 </br>
 
 ---
-
-</br>
 <!-- <img width="50" src="https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark" /> -->
-<div align="center">
+<!-- <div align="center">
   
-<!--   [![trophy](https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 <p align="center">	
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=dat911zz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
