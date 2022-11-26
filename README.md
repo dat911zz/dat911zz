@@ -15,7 +15,7 @@
 </div>
 <h2 align="center">Just a little bit about me :3</h2>
   <!-- - 🔭 I’m currently working on ... -->
-🎓 I'm a student at HUFI ( Ho Chi Minh City University of Food Industry )<br>
+🎓 I'm a student at HUFI ( Ho Chi Minh City University of Food Industry)<br>
 🌱 I’m currently learning C/C++, C#, CSS, HTML, JS<br>
 👯 I’m looking to collaborate on team or company
 </p>
