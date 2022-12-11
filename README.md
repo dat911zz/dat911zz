@@ -91,11 +91,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
   </p>
   
----
+<!-- ---
 
 <a href="https://github.com/dat911zz"><img alt="cutipu Graph"
     src="https://activity-graph.herokuapp.com/graph?username=dat911zz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
+</a> -->
 
 ---
 
