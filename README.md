@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=500&lines=Hello+world!;I'm+a+developer;Great+to+see+you+here;%3C3"/>
   </p>
   <div align="center">
-
+    
   ![](https://komarev.com/ghpvc/?username=dat911zz)
   
 </div>
@@ -53,7 +53,6 @@
 [![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/CPU-Scheduling-Algorithms?theme=dark-blue)](https://github.com/dat911zz/CPU-Scheduling-Algorithms)
 [![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/BTL-TKWeb-TMDT?theme=dark-blue)](https://github.com/dat911zz/BTL-TKWeb-TMDT)
 [![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/Huffman?theme=dark-blue)](https://github.com/dat911zz/Huffman)
-
 
 <br>
 <br>
