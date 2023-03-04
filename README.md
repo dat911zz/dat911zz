@@ -19,8 +19,8 @@
 🌱 I’m currently learning C/C++, C#, CSS, HTML, JS<br>
 👯 I’m looking to collaborate on team or company
 </p>
-<br>
-<h2 align="center">🛠 Featured Project 🛠</h2>
+<!-- <br>
+<h2 align="center">🛠 Featured Project 🛠</h2> -->
 <!-- <div>
 <h3> Web Quản Lý Sinh Viên <br> (Student Management Web Application) </h3>
 <p>Technologies: Front-end( HTML, CSS, JS), Back-end( ASP.NET MVC 5)</p>
@@ -49,12 +49,12 @@
 <p>Link repos: <a href="https://github.com/dat911zz/CPU-Scheduling-Algorithms">https://github.com/dat911zz/CPU-Scheduling-Algorithms</a></p>
 </div> -->
 
-[![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/StudentManagementWebApp?theme=dark-blue)](https://github.com/dat911zz/StudentManagementWebApp)
+<!-- [![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/StudentManagementWebApp?theme=dark-blue)](https://github.com/dat911zz/StudentManagementWebApp)
 [![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/CPU-Scheduling-Algorithms?theme=dark-blue)](https://github.com/dat911zz/CPU-Scheduling-Algorithms)
 [![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/BTL-TKWeb-TMDT?theme=dark-blue)](https://github.com/dat911zz/BTL-TKWeb-TMDT)
 [![Project Card](https://projectcard.rohitv.repl.co/project_card/dat911zz/Huffman?theme=dark-blue)](https://github.com/dat911zz/Huffman)
 
-<br>
+<br> -->
 <br>
 </div>
 <div align="center" id="badges">
