@@ -7,7 +7,7 @@
   <br>
   <p id="header" align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=500&lines=Hello+world!;I'm+a+developer;Great+to+see+you+here;%3C3"/>
-  </p>
+  </p> 
   <div align="center">
     
   ![](https://komarev.com/ghpvc/?username=dat911zz)
