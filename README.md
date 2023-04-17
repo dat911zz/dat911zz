@@ -80,12 +80,12 @@
 
 <p align="center">	
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=dat911zz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dat911zz&show_icons=true&theme=tokyonight" />
+  <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api?username=dat911zz&show_icons=true&theme=tokyonight" />
 </p>
 
   <p align="center">
     <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight" />
-    <img width="52%" src="https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark&row=3&column=4" />
+    <img width="52%" height="245px" src="https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark&row=3&column=4" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight)](https://github.com/dat911zz)
 [![trophy](https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
   </p>
