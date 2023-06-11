@@ -84,8 +84,8 @@
 </p>
 
   <p align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight" />
-    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark&row=3&column=4" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight" />
+    <img width="55%" src="https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark&row=4&column=5" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&layout=compact&theme=tokyonight)](https://github.com/dat911zz)
 [![trophy](https://github-profile-trophy.vercel.app/?username=dat911zz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
   </p>
