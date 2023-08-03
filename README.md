@@ -99,11 +99,11 @@
 
 ---
 
-<div align="center">
+<!--<div align="center">
 
   ![Snake animation](https://github.com/dat911zz/dat911zz/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
   
-</div>
+</div>-->
 </div>
 
 
