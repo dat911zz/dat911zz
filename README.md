@@ -13,7 +13,8 @@
   ![](https://komarev.com/ghpvc/?username=dat911zz)
   
 </div>
-<h2>Just a little bit about me :3</h2>
+
+# 💫Just a little bit about me :3
   <!-- - 🔭 I’m currently working on ... -->
 😂 Nickname: Pháp sư chiên cá <br>
 🎓 I'm a student at HUFI ( Ho Chi Minh City University of Food Industry)<br>
@@ -57,8 +58,6 @@
 
 <br> -->
 
----
-
 <!--<div align="center">
 
   ![Snake animation](https://github.com/dat911zz/dat911zz/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
@@ -78,14 +77,15 @@
 <div align="center"><img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></div>
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=dat911zz&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<div align="center"><img src="https://github-trophies.vercel.app/?username=dat911zz&theme=onedark&no-frame=false&no-bg=false&margin-w=4"/></div>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></div>
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 </div>
+
 
 
 >**Warning**
