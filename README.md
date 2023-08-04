@@ -17,7 +17,7 @@
 # 💫Just a little bit about me :3
   <!-- - 🔭 I’m currently working on ... -->
 😂 Nickname: Pháp sư chiên cá <br>
-🎓 I'm a student at HUFI ( Ho Chi Minh City University of Food Industry)<br>
+🎓 I'm a student at HUIT (Ho Chi Minh City University of Industry and Trade)<br>
 👯 I’m looking to collaborate on team or company
 </p>
 <!-- <br>
