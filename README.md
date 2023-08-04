@@ -18,7 +18,6 @@
   <!-- - 🔭 I’m currently working on ... -->
 😂 Nickname: Pháp sư chiên cá <br>
 🎓 I'm a student at HUFI ( Ho Chi Minh City University of Food Industry)<br>
-🌱 I’m currently learning C/C++, C#, CSS, HTML, JS<br>
 👯 I’m looking to collaborate on team or company
 </p>
 <!-- <br>
