@@ -80,9 +80,9 @@
 
 ### ✍️Random Dev Quote
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></div>
-
+<!--
 ### 😂Random Dev Meme
-<!--<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 </div>
 
 <br>
