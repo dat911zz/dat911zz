@@ -24,9 +24,9 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 # 📊GitHub Stats :
-<img width="35%" src="https://github-readme-stats.vercel.app/api?username=dat911zz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true"/>
-<img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=dat911zz&theme=tokyonight&hide_border=false//github-readme-stats.vercel.app/api?username=dat911zz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true"/>
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=dat911zz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true"/>
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=dat911zz&theme=tokyonight&hide_border=false//github-readme-stats.vercel.app/api?username=dat911zz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true"/>
+<!--<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat911zz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>-->
 
 ## 🏆GitHub Trophies
 <div align="center"><img src="https://github-trophies.vercel.app/?username=dat911zz&theme=onedark&no-frame=false&no-bg=false&margin-w=4"/></div>
