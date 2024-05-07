@@ -30,13 +30,3 @@
 
 ## 🏆GitHub Trophies
 <div align="center"><img src="https://github-trophies.vercel.app/?username=dat911zz&theme=onedark&no-frame=false&no-bg=false&margin-w=4"/></div>
-
-<!--
-### ✍️Random Dev Quote
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></div>
-
-<br>
-
->**Warning**
->You have not followed me yet :((((
--->
